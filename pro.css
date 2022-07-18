@@ -1,0 +1,58 @@
+span
+{
+    font-size: 90px;
+}
+.g
+{
+  color: #4285F4;
+}
+.o
+{
+  color: #DB4437;
+}
+.o1
+{
+  color: #F4B400;
+}
+.g1
+{
+  color: #4285F4;
+}
+.l
+{
+  color: #0F9D58;
+}
+.e
+{
+  color: #DB4437;
+}
+h1
+{
+ position: relative;
+ margin-top: 15%;
+}
+h2
+{
+ position: relative;
+ margin-top: 10%;
+}
+input[type="text"]
+{
+width: 300px;
+height: 5vh;
+border-radius: 50px;
+}
+form
+{
+    position: relative;
+    margin-top: -240px;
+}
+input[type="submit" feColorMatrix]
+{
+    width: 100px;
+    height: 3vh;
+    border-radius: 20px;
+}
+input, select, textarea{
+    color: #303131;
+}
