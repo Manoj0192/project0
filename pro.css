@@ -47,7 +47,7 @@ form
     position: relative;
     margin-top: -240px;
 }
-input[type="submit" feColorMatrix]
+input[type="submit" ][feColorMatrix]
 {
     width: 100px;
     height: 3vh;
